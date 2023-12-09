@@ -1,3 +1,5 @@
+#![feature(array_windows)]
+
 mod day1;
 mod day2;
 mod day3;
